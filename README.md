@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SEED-exe
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning Game desgin
