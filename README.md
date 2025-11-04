@@ -59,7 +59,7 @@ Each project is an exploration of systems, balance, and emotion through interact
 
 ### 💌 Contact
 If you want to collaborate, discuss design, or feature my work, reach out via:
-- 📧 **contact@kodegamestudio.com**  
+- 📧 **kode.game.studio@gmail.com**  
 - or open an issue on one of my repositories.
 
 ---
